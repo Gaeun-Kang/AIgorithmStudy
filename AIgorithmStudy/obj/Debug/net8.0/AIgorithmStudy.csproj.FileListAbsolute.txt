@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\bin\Debug\net8.0\AIgorithmStudy.exe
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\bin\Debug\net8.0\AIgorithmStudy.deps.json
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\bin\Debug\net8.0\AIgorithmStudy.runtimeconfig.json
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\bin\Debug\net8.0\AIgorithmStudy.dll
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\bin\Debug\net8.0\AIgorithmStudy.pdb
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\obj\Debug\net8.0\AIgorithmStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\obj\Debug\net8.0\AIgorithmStudy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\obj\Debug\net8.0\AIgorithmStudy.AssemblyInfo.cs
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\obj\Debug\net8.0\AIgorithmStudy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\obj\Debug\net8.0\AIgorithmStudy.dll
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\obj\Debug\net8.0\refint\AIgorithmStudy.dll
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\obj\Debug\net8.0\AIgorithmStudy.pdb
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\obj\Debug\net8.0\AIgorithmStudy.genruntimeconfig.cache
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\obj\Debug\net8.0\ref\AIgorithmStudy.dll
