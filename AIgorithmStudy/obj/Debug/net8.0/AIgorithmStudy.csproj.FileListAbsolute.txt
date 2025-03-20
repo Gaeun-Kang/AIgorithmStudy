@@ -12,3 +12,4 @@ C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\obj\Debug\net8.
 C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\obj\Debug\net8.0\AIgorithmStudy.pdb
 C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\obj\Debug\net8.0\AIgorithmStudy.genruntimeconfig.cache
 C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\obj\Debug\net8.0\ref\AIgorithmStudy.dll
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\AIgorithmStudy\obj\Debug\net8.0\AIgorithmStudy.sourcelink.json

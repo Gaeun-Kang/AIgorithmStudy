@@ -8,7 +8,7 @@
 
 class SumAlgorithm
 {
-    static void Main()
+    static void start()
     {
         //input
         int[] scores = { 100, 75, 50, 73, 90, 50, 69, 88 };
