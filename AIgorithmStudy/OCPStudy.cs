@@ -98,7 +98,7 @@ class CallManager
 
 class User
 {
-    static void Main()
+    static void ocp()
     {
         // CallManager 객체 생성
         var callManager = new CallManager();
