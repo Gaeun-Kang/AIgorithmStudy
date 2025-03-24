@@ -7,7 +7,7 @@
 
 class CountAlgorithm
 {
-    static void Main(string[] args)
+    static void CountAlgorithm(string[] args)
     {
         //input
         var num = 0;
