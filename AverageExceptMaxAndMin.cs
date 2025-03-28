@@ -19,6 +19,8 @@ class AverageExceptMaxAndMin{
         //process
         for(int i =0; i< length; i++)
         {
+            sum += numbers[i];
+
             if(numbers[i]> max)
             {
                 max = number[i]; //점점 더 큰 값을 할당해주는 구조 
@@ -31,10 +33,11 @@ class AverageExceptMaxAndMin{
             }
         }
 
-        average = sum /
+        //최대와 최소를 제외한 평균 구하기 
+        average = (sum - max - min) / numbers.Length - 2;
         //output
-        Console.writeLine($"최댓값은 {numbers.Max()}");
-        Console.writeLine($"최댓값은 {max}");
+        Console.WriteLine($"합계 : {sum}, 최댓값 : {max} , 최솟값 : {min}");
+        Consol.WriteLine($"최댓값과 최솟값을 뺀 평균은 : {avg}");
 
     }
 }
