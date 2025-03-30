@@ -3,7 +3,7 @@ using System;
 class ArraySumAverage
 {
     //[?]2차원 배열을 사용하여 점수 합계 및 평균 구하기 
-    static void Main()
+    static void ArrayMain()
     {
         //순서대로 국어, 영어, 합계, 평균 
       int[,] scores = { 

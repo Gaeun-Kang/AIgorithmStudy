@@ -4,7 +4,7 @@ class Averagecount
 {
 
 //[?]5명의 학생 점수를 입력받아 전체 학생 평균 이상의 성적인 학생 수 구하기 프로그램
-    static void Main()
+    static void AverageCountMain()
     {
         //input
 

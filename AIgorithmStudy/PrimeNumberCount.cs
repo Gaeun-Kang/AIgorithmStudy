@@ -5,17 +5,18 @@ using System;
 class PrimeNumberCount
 {
  
-    static void PrimeNumberCount()
+    static void PrimeNumberCountMain()
     {
         //Input
         var number = 0;
+        int Count = 0;
         bool sw = true; //소수(true)인지 아닌지 확인 
         Console.WriteLine("수를 입력하세요 : _\b");
         number = Convert.ToInt32(Console.ReadLine());
 
         //Process
         
-        for(i = 0; i < number; i++) //2부터 number까지 반복하면서 소수 판별
+        for(int i = 0; i < number; i++) //2부터 number까지 반복하면서 소수 판별
         {
             sw = true;
             //2부터 i(현재수) - 1까지 나누었을 때 나누어 떨어지면 소수가 아님
@@ -41,7 +42,7 @@ class PrimeNumberCount
         }
 
         //OutPut
-        Console.WriteLine($"2부터 {number}까지의 소수의 개수는 :{count}");
+        Console.WriteLine($"2부터 {number}까지의 소수의 개수는 :{Count}");
 
     }
 

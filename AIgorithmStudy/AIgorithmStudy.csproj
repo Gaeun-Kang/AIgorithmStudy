@@ -1,28 +1,48 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="AverageAlgorithm.cs" />
-    <Compile Remove="CountAlgorithm.cs" />
-    <Compile Remove="PerfectNumber.cs" />
-  </ItemGroup>
+	<ItemGroup>
+		<Compile Remove="ArithmeticSequence.cs" />
+		<Compile Remove="ArraySumAverage.cs" />
+		<Compile Remove="AverageAlgorithm.cs" />
+		<Compile Remove="Averagecount.cs" />
+		<Compile Remove="AverageExceptMaxAndMin.cs" />
+		<Compile Remove="CountAlgorithm.cs" />
+		<Compile Remove="MaxAlgorithm.cs" />
+		<Compile Remove="MinAlgorithm.cs" />
+		<Compile Remove="OCPStudy.cs" />
+		<Compile Remove="PerfectNumber.cs" />
+		<Compile Remove="PrimeNumber.cs" />
+		<Compile Remove="PrimeNumberCount.cs" />
+		<Compile Remove="SumAlgorithm.cs" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <None Include="PerfectNumber.cs" />
-  </ItemGroup>
+	<ItemGroup>
+		<None Include="ArithmeticSequence.cs" />
+		<None Include="ArraySumAverage.cs" />
+		<None Include="Averagecount.cs" />
+		<None Include="AverageExceptMaxAndMin.cs" />
+		<None Include="MaxAlgorithm.cs" />
+		<None Include="MinAlgorithm.cs" />
+		<None Include="OCPStudy.cs" />
+		<None Include="PerfectNumber.cs" />
+		<None Include="PrimeNumber.cs" />
+		<None Include="PrimeNumberCount.cs" />
+		<None Include="SumAlgorithm.cs" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <Page Include="AverageAlgorithm.cs" />
-  </ItemGroup>
+	<!-- XAML 관련 설정 및 태그 제거 -->
+	<!-- <Page Include="AverageAlgorithm.cs" /> -->
+	<!-- <XamlAppDef Include="CountAlgorithm.cs" /> -->
 
-  <ItemGroup>
-    <XamlAppDef Include="CountAlgorithm.cs" />
-  </ItemGroup>
+	<PropertyGroup>
+		<XamlBuildTask>false</XamlBuildTask>
+	</PropertyGroup>
 
 </Project>
