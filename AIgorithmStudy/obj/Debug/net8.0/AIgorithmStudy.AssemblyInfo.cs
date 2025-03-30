@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AIgorithmStudy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a45a280db44b189e58007bc225cd61f614b81136")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e73f732630cf33152ec90406ed737a67b642bb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AIgorithmStudy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AIgorithmStudy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,4 +7,22 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="AverageAlgorithm.cs" />
+    <Compile Remove="CountAlgorithm.cs" />
+    <Compile Remove="PerfectNumber.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="PerfectNumber.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Include="AverageAlgorithm.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <XamlAppDef Include="CountAlgorithm.cs" />
+  </ItemGroup>
+
 </Project>
