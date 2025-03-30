@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\aigorithmstudy\\arithmeticsequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|solutionrelative:aigorithmstudy\\arithmeticsequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\aigorithmstudy\\averagealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|solutionrelative:aigorithmstudy\\averagealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\aigorithmstudy\\countalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|solutionrelative:aigorithmstudy\\countalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\aigorithmstudy\\nearalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|solutionrelative:aigorithmstudy\\nearalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\aigorithmstudy\\ocpstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|solutionrelative:aigorithmstudy\\ocpstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\aigorithmstudy\\perfectnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|solutionrelative:aigorithmstudy\\perfectnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\aigorithmstudy\\primenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|solutionrelative:aigorithmstudy\\primenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\aigorithmstudy\\primenumbercount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|solutionrelative:aigorithmstudy\\primenumbercount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\aigorithmstudy\\sumalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B99BCAD-F0A3-4347-A289-6D115FDC0195}|AIgorithmStudy\\AIgorithmStudy.csproj|solutionrelative:aigorithmstudy\\sumalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\CountAlgorithm.cs",
+              "RelativeDocumentMoniker": "AIgorithmStudy\\CountAlgorithm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\CountAlgorithm.cs",
+              "RelativeToolTip": "AIgorithmStudy\\CountAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:24:22.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NearAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\NearAlgorithm.cs",
+              "RelativeDocumentMoniker": "AIgorithmStudy\\NearAlgorithm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\NearAlgorithm.cs",
+              "RelativeToolTip": "AIgorithmStudy\\NearAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:24:20.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PerfectNumber.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\PerfectNumber.cs",
+              "RelativeDocumentMoniker": "AIgorithmStudy\\PerfectNumber.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\PerfectNumber.cs",
+              "RelativeToolTip": "AIgorithmStudy\\PerfectNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:24:15.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrimeNumber.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\PrimeNumber.cs",
+              "RelativeDocumentMoniker": "AIgorithmStudy\\PrimeNumber.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\PrimeNumber.cs",
+              "RelativeToolTip": "AIgorithmStudy\\PrimeNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:24:14.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArithmeticSequence.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\ArithmeticSequence.cs",
+              "RelativeDocumentMoniker": "AIgorithmStudy\\ArithmeticSequence.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\ArithmeticSequence.cs",
+              "RelativeToolTip": "AIgorithmStudy\\ArithmeticSequence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:24:08.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AverageAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\AverageAlgorithm.cs",
+              "RelativeDocumentMoniker": "AIgorithmStudy\\AverageAlgorithm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\AverageAlgorithm.cs",
+              "RelativeToolTip": "AIgorithmStudy\\AverageAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:24:06.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrimeNumberCount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\PrimeNumberCount.cs",
+              "RelativeDocumentMoniker": "AIgorithmStudy\\PrimeNumberCount.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\PrimeNumberCount.cs",
+              "RelativeToolTip": "AIgorithmStudy\\PrimeNumberCount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:51:55.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OCPStudy.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\OCPStudy.cs",
+              "RelativeDocumentMoniker": "AIgorithmStudy\\OCPStudy.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\OCPStudy.cs",
+              "RelativeToolTip": "AIgorithmStudy\\OCPStudy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:19:32.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SumAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\SumAlgorithm.cs",
+              "RelativeDocumentMoniker": "AIgorithmStudy\\SumAlgorithm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\AIgorithmStudy\\SumAlgorithm.cs",
+              "RelativeToolTip": "AIgorithmStudy\\SumAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:15:55.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
