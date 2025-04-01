@@ -16,6 +16,7 @@
 		<Compile Remove="CountAlgorithm.cs" />
 		<Compile Remove="MaxAlgorithm.cs" />
 		<Compile Remove="MinAlgorithm.cs" />
+		<Compile Remove="NearAlgorithm.cs" />
 		<Compile Remove="OCPStudy.cs" />
 		<Compile Remove="PerfectNumber.cs" />
 		<Compile Remove="PrimeNumber.cs" />
@@ -30,6 +31,7 @@
 		<None Include="AverageExceptMaxAndMin.cs" />
 		<None Include="MaxAlgorithm.cs" />
 		<None Include="MinAlgorithm.cs" />
+		<None Include="NearAlgorithm.cs" />
 		<None Include="OCPStudy.cs" />
 		<None Include="PerfectNumber.cs" />
 		<None Include="PrimeNumber.cs" />
