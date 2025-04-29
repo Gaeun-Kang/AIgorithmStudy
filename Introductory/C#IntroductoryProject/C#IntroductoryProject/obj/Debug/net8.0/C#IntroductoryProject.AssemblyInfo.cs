@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AIgorithmStudy")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("C#IntroductoryProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a06f03d66d7b53016795a69a0174d38b4018326")]
-[assembly: System.Reflection.AssemblyProductAttribute("AIgorithmStudy")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AIgorithmStudy")]
+[assembly: System.Reflection.AssemblyProductAttribute("C#IntroductoryProject")]
+[assembly: System.Reflection.AssemblyTitleAttribute("C#IntroductoryProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
