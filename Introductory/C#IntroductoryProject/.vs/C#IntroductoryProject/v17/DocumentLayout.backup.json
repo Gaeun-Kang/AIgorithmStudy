@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\introductory\\c#introductoryproject\\c#introductoryproject\\arithmeticoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|solutionrelative:c#introductoryproject\\arithmeticoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\introductory\\c#introductoryproject\\c#introductoryproject\\stringtonum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|solutionrelative:c#introductoryproject\\stringtonum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,19 +42,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArithmeticOperators.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\ArithmeticOperators.cs",
+              "RelativeDocumentMoniker": "C#IntroductoryProject\\ArithmeticOperators.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\ArithmeticOperators.cs*",
+              "RelativeToolTip": "C#IntroductoryProject\\ArithmeticOperators.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:08:04.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StringToNum.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\StringToNum.cs",
               "RelativeDocumentMoniker": "C#IntroductoryProject\\StringToNum.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\StringToNum.cs",
               "RelativeToolTip": "C#IntroductoryProject\\StringToNum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T13:03:48.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "C#IntroductoryProject.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\C#IntroductoryProject.csproj",
               "RelativeDocumentMoniker": "C#IntroductoryProject\\C#IntroductoryProject.csproj",
@@ -58,12 +75,11 @@
               "RelativeToolTip": "C#IntroductoryProject\\C#IntroductoryProject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-09T12:30:45.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T12:30:45.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Microsoft.NET.EolTargetFrameworks.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
@@ -74,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "realnumvar.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\realnumvar.cs",
               "RelativeDocumentMoniker": "C#IntroductoryProject\\realnumvar.cs",
@@ -85,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ConsoleWrite.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\ConsoleWrite.cs",
               "RelativeDocumentMoniker": "C#IntroductoryProject\\ConsoleWrite.cs",
@@ -97,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ConsoleOutput.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\ConsoleOutput.cs",
               "RelativeDocumentMoniker": "C#IntroductoryProject\\ConsoleOutput.cs",
