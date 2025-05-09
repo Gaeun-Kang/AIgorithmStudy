@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\introductory\\c#introductoryproject\\c#introductoryproject\\casting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|solutionrelative:c#introductoryproject\\casting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\introductory\\c#introductoryproject\\c#introductoryproject\\stringtonum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|solutionrelative:c#introductoryproject\\stringtonum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\introductory\\c#introductoryproject\\c#introductoryproject\\c#introductoryproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -12,10 +12,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\introductory\\c#introductoryproject\\c#introductoryproject\\realnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|solutionrelative:c#introductoryproject\\realnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\realnumvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,17 +33,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringToNum.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\StringToNum.cs",
+              "RelativeDocumentMoniker": "C#IntroductoryProject\\StringToNum.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\StringToNum.cs",
+              "RelativeToolTip": "C#IntroductoryProject\\StringToNum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:03:48.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "C#IntroductoryProject",
+              "Title": "C#IntroductoryProject.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\C#IntroductoryProject.csproj",
               "RelativeDocumentMoniker": "C#IntroductoryProject\\C#IntroductoryProject.csproj",
               "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\C#IntroductoryProject.csproj",
               "RelativeToolTip": "C#IntroductoryProject\\C#IntroductoryProject.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-09T12:30:45.509Z",
               "EditorCaption": ""
@@ -65,32 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Casting.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\Casting.cs",
-              "RelativeDocumentMoniker": "C#IntroductoryProject\\Casting.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\Casting.cs",
-              "RelativeToolTip": "C#IntroductoryProject\\Casting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T08:05:07.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RealNum.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\RealNum.cs",
-              "RelativeDocumentMoniker": "C#IntroductoryProject\\RealNum.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\RealNum.cs",
-              "RelativeToolTip": "C#IntroductoryProject\\RealNum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T06:27:52.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "realnumvar.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\realnumvar.cs",
               "RelativeDocumentMoniker": "C#IntroductoryProject\\realnumvar.cs",
@@ -101,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ConsoleWrite.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\ConsoleWrite.cs",
               "RelativeDocumentMoniker": "C#IntroductoryProject\\ConsoleWrite.cs",
@@ -113,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ConsoleOutput.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\ConsoleOutput.cs",
               "RelativeDocumentMoniker": "C#IntroductoryProject\\ConsoleOutput.cs",

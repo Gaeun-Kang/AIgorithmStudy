@@ -10,6 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Casting.cs" />
     <Compile Remove="ConsoleOutput.cs" />
     <Compile Remove="ConsoleWrite.cs" />
     <Compile Remove="Program.cs" />
@@ -17,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Casting.cs" />
     <None Include="ConsoleOutput.cs" />
     <None Include="ConsoleWrite.cs" />
     <None Include="Program.cs" />
