@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\introductory\\c#introductoryproject\\c#introductoryproject\\realnumvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|solutionrelative:c#introductoryproject\\realnumvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\introductory\\c#introductoryproject\\c#introductoryproject\\consolewrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|solutionrelative:c#introductoryproject\\consolewrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "realnumvar.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\realnumvar.cs",
+              "RelativeDocumentMoniker": "C#IntroductoryProject\\realnumvar.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\realnumvar.cs",
+              "RelativeToolTip": "C#IntroductoryProject\\realnumvar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:17:02.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ConsoleWrite.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\ConsoleWrite.cs",
               "RelativeDocumentMoniker": "C#IntroductoryProject\\ConsoleWrite.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\ConsoleWrite.cs",
               "RelativeToolTip": "C#IntroductoryProject\\ConsoleWrite.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAhwCEAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAhwBUAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T08:07:56.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ConsoleOutput.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\ConsoleOutput.cs",
               "RelativeDocumentMoniker": "C#IntroductoryProject\\ConsoleOutput.cs",

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\obj\Debug\net5.0\C#IntroductoryProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\obj\Debug\net5.0\C#IntroductoryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\obj\Debug\net5.0\C#IntroductoryProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\obj\Debug\net5.0\C#IntroductoryProject.AssemblyInfo.cs
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\obj\Debug\net5.0\C#IntroductoryProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\bin\Debug\net5.0\C#IntroductoryProject.exe
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\bin\Debug\net5.0\C#IntroductoryProject.deps.json
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\bin\Debug\net5.0\C#IntroductoryProject.runtimeconfig.json
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\bin\Debug\net5.0\C#IntroductoryProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\bin\Debug\net5.0\C#IntroductoryProject.dll
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\bin\Debug\net5.0\ref\C#IntroductoryProject.dll
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\bin\Debug\net5.0\C#IntroductoryProject.pdb
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\obj\Debug\net5.0\C#IntroductoryProject.dll
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\obj\Debug\net5.0\ref\C#IntroductoryProject.dll
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\obj\Debug\net5.0\C#IntroductoryProject.pdb
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\obj\Debug\net5.0\C#IntroductoryProject.genruntimeconfig.cache
