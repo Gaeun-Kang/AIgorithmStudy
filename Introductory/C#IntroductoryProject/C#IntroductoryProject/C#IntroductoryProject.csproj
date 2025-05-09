@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>C_IntroductoryProject</RootNamespace>
+    <LangVersion>latest</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
@@ -12,12 +13,14 @@
     <Compile Remove="ConsoleOutput.cs" />
     <Compile Remove="ConsoleWrite.cs" />
     <Compile Remove="Program.cs" />
+    <Compile Remove="RealNum.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="ConsoleOutput.cs" />
     <None Include="ConsoleWrite.cs" />
     <None Include="Program.cs" />
+    <None Include="RealNum.cs" />
   </ItemGroup>
 
 </Project>
