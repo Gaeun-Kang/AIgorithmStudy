@@ -10,18 +10,22 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ArithmeticOperators.cs" />
     <Compile Remove="Casting.cs" />
     <Compile Remove="ConsoleOutput.cs" />
     <Compile Remove="ConsoleWrite.cs" />
+    <Compile Remove="Overflow.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="RealNum.cs" />
     <Compile Remove="StringToNum.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="ArithmeticOperators.cs" />
     <None Include="Casting.cs" />
     <None Include="ConsoleOutput.cs" />
     <None Include="ConsoleWrite.cs" />
+    <None Include="Overflow.cs" />
     <None Include="Program.cs" />
     <None Include="RealNum.cs" />
     <None Include="StringToNum.cs" />

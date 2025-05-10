@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#IntroductoryProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcb6d1080f0371a12f2e6de5f3bffe81796c3c95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b15fbabf17b6fe47f36de25e817e1011a2fe0a8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#IntroductoryProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#IntroductoryProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
