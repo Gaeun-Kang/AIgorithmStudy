@@ -14,6 +14,7 @@
     <Compile Remove="Casting.cs" />
     <Compile Remove="ConsoleOutput.cs" />
     <Compile Remove="ConsoleWrite.cs" />
+    <Compile Remove="LogicalOperator.cs" />
     <Compile Remove="Overflow.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="RealNum.cs" />
@@ -25,6 +26,7 @@
     <None Include="Casting.cs" />
     <None Include="ConsoleOutput.cs" />
     <None Include="ConsoleWrite.cs" />
+    <None Include="LogicalOperator.cs" />
     <None Include="Overflow.cs" />
     <None Include="Program.cs" />
     <None Include="RealNum.cs" />

@@ -13,5 +13,4 @@ C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryPro
 C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\obj\Debug\net5.0\ref\C#IntroductoryProject.dll
 C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\obj\Debug\net5.0\C#IntroductoryProject.pdb
 C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\obj\Debug\net5.0\C#IntroductoryProject.genruntimeconfig.cache
-C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\obj\Debug\net5.0\C#IntroductoryProject.sourcelink.json
-C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\obj\Debug\net5.0\refint\C#IntroductoryProject.dll
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Introductory\C#IntroductoryProject\C#IntroductoryProject\bin\Debug\net5.0\ref\C#IntroductoryProject.dll
