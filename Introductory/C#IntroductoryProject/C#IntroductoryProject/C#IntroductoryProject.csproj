@@ -12,6 +12,7 @@
   <ItemGroup>
     <Compile Remove="ArithmeticOperators.cs" />
     <Compile Remove="Casting.cs" />
+    <Compile Remove="ConditionalOperator.cs" />
     <Compile Remove="ConsoleOutput.cs" />
     <Compile Remove="ConsoleWrite.cs" />
     <Compile Remove="LogicalOperator.cs" />
@@ -24,6 +25,7 @@
   <ItemGroup>
     <None Include="ArithmeticOperators.cs" />
     <None Include="Casting.cs" />
+    <None Include="ConditionalOperator.cs" />
     <None Include="ConsoleOutput.cs" />
     <None Include="ConsoleWrite.cs" />
     <None Include="LogicalOperator.cs" />
