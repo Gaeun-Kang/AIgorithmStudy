@@ -19,6 +19,7 @@
     <Compile Remove="Overflow.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="RealNum.cs" />
+    <Compile Remove="StringMethods.cs" />
     <Compile Remove="StringToNum.cs" />
   </ItemGroup>
 
@@ -32,6 +33,7 @@
     <None Include="Overflow.cs" />
     <None Include="Program.cs" />
     <None Include="RealNum.cs" />
+    <None Include="StringMethods.cs" />
     <None Include="StringToNum.cs" />
   </ItemGroup>
 
