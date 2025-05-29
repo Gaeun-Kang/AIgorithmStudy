@@ -15,8 +15,10 @@
     <Compile Remove="ConditionalOperator.cs" />
     <Compile Remove="ConsoleOutput.cs" />
     <Compile Remove="ConsoleWrite.cs" />
+    <Compile Remove="ConstAndReadonly.cs" />
     <Compile Remove="EnumStudy.cs" />
     <Compile Remove="LogicalOperator.cs" />
+    <Compile Remove="NullOperator.cs" />
     <Compile Remove="Overflow.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="RealNum.cs" />
@@ -24,6 +26,7 @@
     <Compile Remove="StringContain.cs" />
     <Compile Remove="StringMethods.cs" />
     <Compile Remove="StringToNum.cs" />
+    <Compile Remove="ValueAndRef.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -32,8 +35,10 @@
     <None Include="ConditionalOperator.cs" />
     <None Include="ConsoleOutput.cs" />
     <None Include="ConsoleWrite.cs" />
+    <None Include="ConstAndReadonly.cs" />
     <None Include="EnumStudy.cs" />
     <None Include="LogicalOperator.cs" />
+    <None Include="NullOperator.cs" />
     <None Include="Overflow.cs" />
     <None Include="Program.cs" />
     <None Include="RealNum.cs" />
@@ -41,6 +46,7 @@
     <None Include="StringContain.cs" />
     <None Include="StringMethods.cs" />
     <None Include="StringToNum.cs" />
+    <None Include="ValueAndRef.cs" />
   </ItemGroup>
 
 </Project>

@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\introductory\\c#introductoryproject\\c#introductoryproject\\constandreadonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|solutionrelative:c#introductoryproject\\constandreadonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\introductory\\c#introductoryproject\\c#introductoryproject\\nulloperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|solutionrelative:c#introductoryproject\\nulloperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\introductory\\c#introductoryproject\\c#introductoryproject\\valueandref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|solutionrelative:c#introductoryproject\\valueandref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78BCD12D-D511-45F5-9246-8A6F717EE639}|C#IntroductoryProject\\C#IntroductoryProject.csproj|c:\\users\\user\\source\\repos\\c#study\\aigorithmstudy\\introductory\\c#introductoryproject\\c#introductoryproject\\logicaloperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConstAndReadonly.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\ConstAndReadonly.cs",
-              "RelativeDocumentMoniker": "C#IntroductoryProject\\ConstAndReadonly.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\ConstAndReadonly.cs",
-              "RelativeToolTip": "C#IntroductoryProject\\ConstAndReadonly.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAXAAAAAAAAAA==",
+              "Title": "NullOperator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\NullOperator.cs",
+              "RelativeDocumentMoniker": "C#IntroductoryProject\\NullOperator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\NullOperator.cs*",
+              "RelativeToolTip": "C#IntroductoryProject\\NullOperator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T10:10:09.278Z",
+              "WhenOpened": "2025-05-29T11:40:45.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ValueAndRef.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\ValueAndRef.cs",
+              "RelativeDocumentMoniker": "C#IntroductoryProject\\ValueAndRef.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\ValueAndRef.cs",
+              "RelativeToolTip": "C#IntroductoryProject\\ValueAndRef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:19:27.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LogicalOperator.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\LogicalOperator.cs",
               "RelativeDocumentMoniker": "C#IntroductoryProject\\LogicalOperator.cs",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ConsoleWrite.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\ConsoleWrite.cs",
               "RelativeDocumentMoniker": "C#IntroductoryProject\\ConsoleWrite.cs",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ConsoleOutput.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\C#Study\\AIgorithmStudy\\Introductory\\C#IntroductoryProject\\C#IntroductoryProject\\ConsoleOutput.cs",
               "RelativeDocumentMoniker": "C#IntroductoryProject\\ConsoleOutput.cs",
