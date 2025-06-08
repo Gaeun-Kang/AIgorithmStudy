@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\bin\Debug\net5.0\BasicStudy.exe
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\bin\Debug\net5.0\BasicStudy.deps.json
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\bin\Debug\net5.0\BasicStudy.runtimeconfig.json
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\bin\Debug\net5.0\BasicStudy.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\bin\Debug\net5.0\BasicStudy.dll
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\bin\Debug\net5.0\ref\BasicStudy.dll
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\bin\Debug\net5.0\BasicStudy.pdb
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\obj\Debug\net5.0\BasicStudy.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\obj\Debug\net5.0\BasicStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\obj\Debug\net5.0\BasicStudy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\obj\Debug\net5.0\BasicStudy.AssemblyInfo.cs
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\obj\Debug\net5.0\BasicStudy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\obj\Debug\net5.0\BasicStudy.dll
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\obj\Debug\net5.0\ref\BasicStudy.dll
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\obj\Debug\net5.0\BasicStudy.pdb
+C:\Users\User\source\repos\C#Study\AIgorithmStudy\Basic\BasicStudy\BasicStudy\obj\Debug\net5.0\BasicStudy.genruntimeconfig.cache
