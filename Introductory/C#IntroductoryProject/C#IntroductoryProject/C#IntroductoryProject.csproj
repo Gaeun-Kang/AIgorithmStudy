@@ -17,8 +17,10 @@
     <Compile Remove="ConsoleWrite.cs" />
     <Compile Remove="ConstAndReadonly.cs" />
     <Compile Remove="EnumStudy.cs" />
+    <Compile Remove="LeapYear.cs" />
     <Compile Remove="LogicalOperator.cs" />
     <Compile Remove="NullOperator.cs" />
+    <Compile Remove="Object.cs" />
     <Compile Remove="Overflow.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="RealNum.cs" />
@@ -27,6 +29,7 @@
     <Compile Remove="StringMethods.cs" />
     <Compile Remove="StringToNum.cs" />
     <Compile Remove="ValueAndRef.cs" />
+    <Compile Remove="ｓｗｉｔｃｈ.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -37,6 +40,7 @@
     <None Include="ConsoleWrite.cs" />
     <None Include="ConstAndReadonly.cs" />
     <None Include="EnumStudy.cs" />
+    <None Include="LeapYear.cs" />
     <None Include="LogicalOperator.cs" />
     <None Include="NullOperator.cs" />
     <None Include="Overflow.cs" />
@@ -47,6 +51,14 @@
     <None Include="StringMethods.cs" />
     <None Include="StringToNum.cs" />
     <None Include="ValueAndRef.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Object.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ｓｗｉｔｃｈ.cs" />
   </ItemGroup>
 
 </Project>
